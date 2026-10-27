@@ -20,6 +20,12 @@ This project is based on Python 3.11. The following lists the libraries and vers
 | tqdm | 4.70.0 |
 | matminer | 0.10.1 |
 | pymatgen | 2026.5.4 |
+## Project Structure
+
+
+
+## Model Training and Testing
+
 
 
 
