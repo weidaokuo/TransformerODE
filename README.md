@@ -5,7 +5,7 @@ This work presents an uncertainty-aware inverse design framework that learns com
 The following sections describe the software environment, installation requirements, and instructions for running the framework. Together, these resources provide the foundation for reproducing the proposed deformation-trajectory learning and uncertainty-aware inverse design workflow.
 ## Environment Setup
 This project is based on Python 3.11. The following lists the libraries and version numbers required to run this project.
-| libraries | version |
+|libraries |version |
 |---|---|
 | torch | 2.13.0 |
 | torchdiffeq | 0.2.5 |
