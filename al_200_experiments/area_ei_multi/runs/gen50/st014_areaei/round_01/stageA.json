@@ -1,0 +1,18 @@
+{
+ "set": "st014",
+ "gen": 50,
+ "round": 1,
+ "n_train": 50,
+ "tb": 18,
+ "n_expand": 500,
+ "a500_pos": 8,
+ "a500_neg": 492,
+ "a500_max": 9.00941162166854,
+ "a500_mean_finite": -13.331246635682241,
+ "a_real_max": 0.0,
+ "a_real_min": -30.09373141830336,
+ "det_dir": "/Users/weidaokuo/claudecode/wdk/fig_cpei_det/experiment50/data50/runs50/st014_det/m_iter1",
+ "det_retrained": false,
+ "sec_det": null,
+ "sec_total": 489.3
+}

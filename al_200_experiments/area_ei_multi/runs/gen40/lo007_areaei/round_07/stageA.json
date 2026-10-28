@@ -1,0 +1,18 @@
+{
+ "set": "lo007",
+ "gen": 40,
+ "round": 7,
+ "n_train": 52,
+ "tb": 190,
+ "n_expand": 500,
+ "a500_pos": 58,
+ "a500_neg": 442,
+ "a500_max": 11.97898144844017,
+ "a500_mean_finite": -9.77036589640683,
+ "a_real_max": 8.094560011888456,
+ "a_real_min": -35.79056115698786,
+ "det_dir": "/Users/weidaokuo/claudecode/wdk/fig_cpei_det/area_ei_multi/runs/gen40/lo007_areaei/round_07/det_model",
+ "det_retrained": true,
+ "sec_det": null,
+ "sec_total": 2403.6
+}

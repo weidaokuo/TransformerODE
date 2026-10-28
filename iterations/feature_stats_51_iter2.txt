@@ -1,0 +1,22 @@
+Feature-wise Mean and Standard Deviation (for Z-score normalization)
+================================================================================
+Feature Name                                            Mean        Std Dev
+--------------------------------------------------------------------------------
+Anneal_Temp_1                                 1391.215686280  413.641803636
+Anneal_Time_1/h                                  5.313725485    6.102041437
+Quench_1                                         0.117647059    0.322189740
+Anneal_Temp_2                                  442.647059230  752.923942592
+Anneal_Time_2/h                                  0.470588236    0.848365006
+Configuration entropy                           -0.004858947    0.001361269
+Mixing enthalpy                                  1.826473534    0.826372397
+Yang delta                                       0.027895081    0.009864826
+Electronegativity delta                          0.052094373    0.013310910
+VEC mean                                         5.020549019    0.058472576
+Yang omega                                       9.129688038    5.871829961
+Mean cohesive energy                             7.594649255    0.069559505
+Shear modulus mean                              46.852639690    4.169650185
+Atomic weight mean                             104.668268345    7.518796778
+MagpieData mean MeltingT                      2810.626035685   38.422028538
+Interant d electrons                            17.549019604    4.169514593
+MagpieData mean CovalentRadius                 164.385468627    0.673648017
+MagpieData mean Electronegativity                1.630703667    0.019085322

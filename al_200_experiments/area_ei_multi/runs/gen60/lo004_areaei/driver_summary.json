@@ -1,0 +1,15 @@
+{
+ "set": "lo004",
+ "rounds_done": 11,
+ "hit_first": {
+  "10": 9,
+  "5": 9,
+  "3": 9,
+  "1": 11
+ },
+ "hit_full": {
+  "1": 11
+ },
+ "smoke": false,
+ "hours": 9.017
+}

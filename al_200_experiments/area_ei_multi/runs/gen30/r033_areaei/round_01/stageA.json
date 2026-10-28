@@ -1,0 +1,18 @@
+{
+ "set": "r033",
+ "gen": 30,
+ "round": 1,
+ "n_train": 30,
+ "tb": 145,
+ "n_expand": 500,
+ "a500_pos": 1,
+ "a500_neg": 499,
+ "a500_max": 0.32094333943934655,
+ "a500_mean_finite": -13.247578100975563,
+ "a_real_max": 0.0,
+ "a_real_min": -28.6634026757742,
+ "det_dir": "/Users/weidaokuo/claudecode/wdk/fig_cpei_det/experiment30/data30/runs30/r033_det/m_iter1",
+ "det_retrained": false,
+ "sec_det": null,
+ "sec_total": 463.5
+}

@@ -1,0 +1,18 @@
+{
+ "set": "lo002",
+ "gen": 40,
+ "round": 1,
+ "n_train": 40,
+ "tb": 64,
+ "n_expand": 500,
+ "a500_pos": 0,
+ "a500_neg": 500,
+ "a500_max": -0.2475588784808817,
+ "a500_mean_finite": -17.41707068669606,
+ "a_real_max": 0.0,
+ "a_real_min": -39.51493647972006,
+ "det_dir": "/Users/weidaokuo/claudecode/wdk/fig_cpei_det/experiment40/data40/runs40/lo002_det/m_iter1",
+ "det_retrained": false,
+ "sec_det": null,
+ "sec_total": 495.9
+}

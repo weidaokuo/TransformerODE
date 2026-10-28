@@ -1,0 +1,16 @@
+{
+ "set": "r049",
+ "gen": 50,
+ "rounds_done": 7,
+ "hit_first": {
+  "10": 1,
+  "5": 3,
+  "3": 5,
+  "1": 7
+ },
+ "hit_full": {
+  "1": 7
+ },
+ "smoke": false,
+ "hours": 5.1
+}

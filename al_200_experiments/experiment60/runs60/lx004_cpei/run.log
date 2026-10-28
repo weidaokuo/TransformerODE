@@ -1,0 +1,18 @@
+[lx004/cpei/eng] UTS top10=[30, 73, 92, 31, 165]... 门槛501-836
+init n=60
+  [train_ode] 样本数=60, 1500 epochs, latent3(state_dim=4)
+  ep[1/1500] loss=3.101821 (2s)
+  ep[500/1500] loss=0.790382 (972s)
+  ep[1000/1500] loss=0.306621 (1977s)
+  ep[1500/1500] loss=0.231098 (2963s)
+  [train_ode] 完成 (2963s) → /Users/weidaokuo/claudecode/wdk/fig_cpei_det/experiment60/data60/runs60/lx004_cpei/m_iter1/model.pth
+  [iter1] cpei/eng 选[31, 91] UTS=[808, 738] hit{10: 1, 5: 1} (3064s)
+  [train_ode] 样本数=62, 1500 epochs, latent3(state_dim=4)
+  ep[1/1500] loss=3.385973 (2s)
+  ep[500/1500] loss=0.909483 (1039s)
+  ep[1000/1500] loss=0.428151 (2119s)
+  ep[1500/1500] loss=0.324507 (3192s)
+  [train_ode] 完成 (3192s) → /Users/weidaokuo/claudecode/wdk/fig_cpei_det/experiment60/data60/runs60/lx004_cpei/m_iter2/model.pth
+  [iter2] cpei/eng 选[30, 73] UTS=[836, 824] hit{10: 2, 5: 2, 3: 2, 1: 1} (3300s)
+  [train_ode] 样本数=64, 1500 epochs, latent3(state_dim=4)
+  ep[1/1500] loss=3.124243 (2s)

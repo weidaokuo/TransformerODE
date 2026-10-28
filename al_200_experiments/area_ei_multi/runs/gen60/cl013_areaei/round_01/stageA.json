@@ -1,0 +1,17 @@
+{
+ "set": "cl013",
+ "round": 1,
+ "n_train": 60,
+ "tb": 189,
+ "n_expand": 500,
+ "a500_pos": 0,
+ "a500_neg": 500,
+ "a500_max": -1.568886955887775,
+ "a500_mean_finite": -15.190002496919064,
+ "a_real_max": 0.0,
+ "a_real_min": -42.75245501589245,
+ "det_dir": "/Users/weidaokuo/claudecode/wdk/fig_cpei_det/experiment60/data60/runs60/cl013_det/m_iter1",
+ "det_retrained": false,
+ "sec_det": null,
+ "sec_total": 673.1
+}

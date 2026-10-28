@@ -1,0 +1,18 @@
+{
+ "set": "ht007",
+ "gen": 60,
+ "round": 1,
+ "n_train": 60,
+ "tb": 189,
+ "n_expand": 500,
+ "a500_pos": 3,
+ "a500_neg": 497,
+ "a500_max": 1.5238655268051446,
+ "a500_mean_finite": -13.841217775783266,
+ "a_real_max": 0.0,
+ "a_real_min": -42.75245501589245,
+ "det_dir": "/Users/weidaokuo/claudecode/wdk/fig_cpei_det/experiment60/data60/runs60/ht007_det/m_iter1",
+ "det_retrained": false,
+ "sec_det": null,
+ "sec_total": 489.5
+}

@@ -1,0 +1,18 @@
+{
+ "set": "bi002",
+ "gen": 50,
+ "round": 1,
+ "n_train": 50,
+ "tb": 9,
+ "n_expand": 500,
+ "a500_pos": 67,
+ "a500_neg": 433,
+ "a500_max": 2.6527558645095874,
+ "a500_mean_finite": -4.712233781615003,
+ "a_real_max": 0.9981043212037568,
+ "a_real_min": -12.015104495247481,
+ "det_dir": "/Users/weidaokuo/claudecode/wdk/fig_cpei_det/experiment50/data50/runs50/bi002_det/m_iter1",
+ "det_retrained": false,
+ "sec_det": null,
+ "sec_total": 466.5
+}

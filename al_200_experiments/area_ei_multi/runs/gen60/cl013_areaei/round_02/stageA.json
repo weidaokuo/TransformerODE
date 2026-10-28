@@ -1,0 +1,17 @@
+{
+ "set": "cl013",
+ "round": 2,
+ "n_train": 62,
+ "tb": 189,
+ "n_expand": 500,
+ "a500_pos": 0,
+ "a500_neg": 500,
+ "a500_max": -0.36334647492379973,
+ "a500_mean_finite": -14.98272754824691,
+ "a_real_max": 0.4042812568932175,
+ "a_real_min": -42.75245501589245,
+ "det_dir": "/Users/weidaokuo/claudecode/wdk/fig_cpei_det/experiment60/area_ei60/runs/cl013_areaei_B1/round_02/det_model",
+ "det_retrained": true,
+ "sec_det": null,
+ "sec_total": 3024.5
+}

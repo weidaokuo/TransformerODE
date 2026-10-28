@@ -1,0 +1,18 @@
+{
+ "set": "ht002",
+ "gen": 40,
+ "round": 3,
+ "n_train": 44,
+ "tb": 66,
+ "n_expand": 500,
+ "a500_pos": 4,
+ "a500_neg": 496,
+ "a500_max": 0.909585340842072,
+ "a500_mean_finite": -10.776078841287891,
+ "a_real_max": 0.3707924986119645,
+ "a_real_min": -25.882364495410133,
+ "det_dir": "/Users/weidaokuo/claudecode/wdk/fig_cpei_det/area_ei_multi/runs/gen40/ht002_areaei/round_03/det_model",
+ "det_retrained": true,
+ "sec_det": null,
+ "sec_total": 2343.2
+}

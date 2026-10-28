@@ -1,0 +1,16 @@
+{
+ "set": "ht009",
+ "gen": 30,
+ "rounds_done": 6,
+ "hit_first": {
+  "10": 3,
+  "5": 3,
+  "3": 4,
+  "1": 6
+ },
+ "hit_full": {
+  "1": 6
+ },
+ "smoke": false,
+ "hours": 2.913
+}

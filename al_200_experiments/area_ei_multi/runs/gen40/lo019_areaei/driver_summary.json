@@ -1,0 +1,16 @@
+{
+ "set": "lo019",
+ "gen": 40,
+ "rounds_done": 9,
+ "hit_first": {
+  "10": 7,
+  "5": 9,
+  "3": 9,
+  "1": 9
+ },
+ "hit_full": {
+  "1": 9
+ },
+ "smoke": false,
+ "hours": 5.398
+}

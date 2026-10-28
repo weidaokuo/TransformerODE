@@ -1,0 +1,39 @@
+[lo007/cpei/eng] UTS top10=[30, 73, 92, 31, 165]... 门槛501-836
+init n=40
+  [train_ode] 样本数=40, 1500 epochs, latent3(state_dim=4)
+  ep[1/1500] loss=2.518318 (2s)
+  ep[500/1500] loss=0.748119 (986s)
+  ep[1000/1500] loss=0.342567 (1994s)
+  ep[1500/1500] loss=0.239089 (2927s)
+  [train_ode] 完成 (2927s) → /Users/weidaokuo/claudecode/wdk/fig_cpei_det/experiment40/data40/runs40/lo007_cpei/m_iter1/model.pth
+  [iter1] cpei/eng 选[65, 122] UTS=[763, 780] hit{} (3093s)
+  [train_ode] 样本数=42, 1500 epochs, latent3(state_dim=4)
+  ep[1/1500] loss=2.974656 (2s)
+  ep[500/1500] loss=0.698628 (984s)
+  ep[1000/1500] loss=0.253375 (1992s)
+  ep[1500/1500] loss=0.192853 (2979s)
+  [train_ode] 完成 (2979s) → /Users/weidaokuo/claudecode/wdk/fig_cpei_det/experiment40/data40/runs40/lo007_cpei/m_iter2/model.pth
+  [iter2] cpei/eng 选[146, 67] UTS=[729, 741] hit{} (3149s)
+  [train_ode] 样本数=44, 1500 epochs, latent3(state_dim=4)
+  ep[1/1500] loss=2.882916 (2s)
+  ep[500/1500] loss=0.718014 (1058s)
+  ep[1000/1500] loss=0.263644 (2156s)
+  ep[1500/1500] loss=0.202313 (3256s)
+  [train_ode] 完成 (3256s) → /Users/weidaokuo/claudecode/wdk/fig_cpei_det/experiment40/data40/runs40/lo007_cpei/m_iter3/model.pth
+  [iter3] cpei/eng 选[59, 46] UTS=[786, 769] hit{} (3438s)
+  [train_ode] 样本数=46, 1500 epochs, latent3(state_dim=4)
+  ep[1/1500] loss=3.493296 (2s)
+  ep[500/1500] loss=0.761348 (1134s)
+  ep[1000/1500] loss=0.303787 (2297s)
+  ep[1500/1500] loss=0.241260 (3467s)
+  [train_ode] 完成 (3467s) → /Users/weidaokuo/claudecode/wdk/fig_cpei_det/experiment40/data40/runs40/lo007_cpei/m_iter4/model.pth
+  [iter4] cpei/eng 选[26, 166] UTS=[756, 716] hit{} (3647s)
+  [train_ode] 样本数=48, 1500 epochs, latent3(state_dim=4)
+  ep[1/1500] loss=2.989971 (2s)
+  ep[500/1500] loss=0.699762 (1189s)
+  ep[1000/1500] loss=0.267695 (2376s)
+  ep[1500/1500] loss=0.223620 (3526s)
+  [train_ode] 完成 (3526s) → /Users/weidaokuo/claudecode/wdk/fig_cpei_det/experiment40/data40/runs40/lo007_cpei/m_iter5/model.pth
+  [iter5] cpei/eng 选[192, 30] UTS=[761, 836] hit{10: 1, 5: 1, 3: 1, 1: 1} (3698s)
+  [train_ode] 样本数=50, 1500 epochs, latent3(state_dim=4)
+  ep[1/1500] loss=3.202266 (2s)

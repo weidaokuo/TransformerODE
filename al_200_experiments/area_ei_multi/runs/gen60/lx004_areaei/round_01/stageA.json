@@ -1,0 +1,18 @@
+{
+ "set": "lx004",
+ "gen": 60,
+ "round": 1,
+ "n_train": 60,
+ "tb": 59,
+ "n_expand": 500,
+ "a500_pos": 1,
+ "a500_neg": 499,
+ "a500_max": 0.48136445775642844,
+ "a500_mean_finite": -12.882134406053268,
+ "a_real_max": 0.0,
+ "a_real_min": -28.903541454901724,
+ "det_dir": "/Users/weidaokuo/claudecode/wdk/fig_cpei_det/experiment60/data60/runs60/lx004_det/m_iter1",
+ "det_retrained": false,
+ "sec_det": null,
+ "sec_total": 466.1
+}

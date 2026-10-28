@@ -1,0 +1,18 @@
+{
+ "set": "mi008",
+ "gen": 40,
+ "round": 1,
+ "n_train": 40,
+ "tb": 74,
+ "n_expand": 500,
+ "a500_pos": 10,
+ "a500_neg": 490,
+ "a500_max": 0.9516262011994971,
+ "a500_mean_finite": -4.590861101774987,
+ "a_real_max": 0.0,
+ "a_real_min": -9.833975831441872,
+ "det_dir": "/Users/weidaokuo/claudecode/wdk/fig_cpei_det/experiment40/data40/runs40/mi008_det/m_iter1",
+ "det_retrained": false,
+ "sec_det": null,
+ "sec_total": 480.5
+}

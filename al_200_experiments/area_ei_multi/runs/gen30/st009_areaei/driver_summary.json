@@ -1,0 +1,16 @@
+{
+ "set": "st009",
+ "gen": 30,
+ "rounds_done": 9,
+ "hit_first": {
+  "10": 4,
+  "5": 7,
+  "3": 8,
+  "1": 9
+ },
+ "hit_full": {
+  "1": 9
+ },
+ "smoke": false,
+ "hours": 4.944
+}

@@ -1,0 +1,18 @@
+{
+ "set": "hg007",
+ "gen": 30,
+ "round": 1,
+ "n_train": 30,
+ "tb": 18,
+ "n_expand": 500,
+ "a500_pos": 1,
+ "a500_neg": 499,
+ "a500_max": 1.3703383730803025,
+ "a500_mean_finite": -3.6455003118351685,
+ "a_real_max": 0.0,
+ "a_real_min": -7.505623749896387,
+ "det_dir": "/Users/weidaokuo/claudecode/wdk/fig_cpei_det/experiment30/data30/runs30/hg007_det/m_iter1",
+ "det_retrained": false,
+ "sec_det": null,
+ "sec_total": 578.7
+}

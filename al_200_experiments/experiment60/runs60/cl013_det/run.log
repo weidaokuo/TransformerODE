@@ -1,0 +1,18 @@
+[cl013/det/eng] UTS top10=[30, 73, 92, 31, 165]... 门槛501-836
+init n=60
+  [train_ode] 样本数=60, 1500 epochs, latent3(state_dim=4)
+  ep[1/1500] loss=3.166133 (2s)
+  ep[500/1500] loss=0.405360 (898s)
+  ep[1000/1500] loss=0.262893 (1913s)
+  ep[1500/1500] loss=0.210008 (2943s)
+  [train_ode] 完成 (2943s) → /Users/weidaokuo/claudecode/wdk/fig_cpei_det/experiment60/data60/runs60/cl013_det/m_iter1/model.pth
+  [iter1] det/eng 选[31, 10] UTS=[808, 770] hit{10: 1, 5: 1} (3055s)
+  [train_ode] 样本数=62, 1500 epochs, latent3(state_dim=4)
+  ep[1/1500] loss=3.196688 (2s)
+  ep[500/1500] loss=0.651068 (1100s)
+  ep[1000/1500] loss=0.292736 (2273s)
+  ep[1500/1500] loss=0.211184 (3430s)
+  [train_ode] 完成 (3430s) → /Users/weidaokuo/claudecode/wdk/fig_cpei_det/experiment60/data60/runs60/cl013_det/m_iter2/model.pth
+  [iter2] det/eng 选[92, 30] UTS=[810, 836] hit{10: 2, 5: 2, 3: 2, 1: 1} (3541s)
+  [train_ode] 样本数=64, 1500 epochs, latent3(state_dim=4)
+  ep[1/1500] loss=2.945373 (2s)

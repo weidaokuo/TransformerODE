@@ -1,0 +1,15 @@
+{
+ "set": "cl013",
+ "rounds_done": 4,
+ "hit_first": {
+  "10": 1,
+  "5": 2,
+  "3": 3,
+  "1": 4
+ },
+ "hit_full": {
+  "1": 4
+ },
+ "smoke": false,
+ "hours": 2.891
+}

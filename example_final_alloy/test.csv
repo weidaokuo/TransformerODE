@@ -1,0 +1,2 @@
+alloy_id,composition_label,Nb_wt_pct,Ta_wt_pct,Hf_wt_pct,W_wt_pct,C_wt_pct,process_temp_C,process_time_h,process_cool_rate_C_s,process_strain_rate_s-1,process_prestrain_pct,source,elong_pct,note
+6,Nb-20Ta-15Hf-10W-0.07C,54.93,20,15,10,0.07,1450,1,0,25,0,iteration3_recommend,33.3,

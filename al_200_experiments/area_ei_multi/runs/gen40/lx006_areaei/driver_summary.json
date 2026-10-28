@@ -1,0 +1,16 @@
+{
+ "set": "lx006",
+ "gen": 40,
+ "rounds_done": 6,
+ "hit_first": {
+  "10": 5,
+  "5": 6,
+  "3": 6,
+  "1": 6
+ },
+ "hit_full": {
+  "1": 6
+ },
+ "smoke": false,
+ "hours": 3.444
+}

@@ -1,0 +1,18 @@
+{
+ "set": "lx004",
+ "gen": 60,
+ "round": 2,
+ "n_train": 62,
+ "tb": 59,
+ "n_expand": 500,
+ "a500_pos": 9,
+ "a500_neg": 491,
+ "a500_max": 2.268529096998681,
+ "a500_mean_finite": -12.52234877550035,
+ "a_real_max": 3.1012192134920604,
+ "a_real_min": -28.903541454901724,
+ "det_dir": "/Users/weidaokuo/claudecode/wdk/fig_cpei_det/area_ei_multi/runs/gen60/lx004_areaei/round_02/det_model",
+ "det_retrained": true,
+ "sec_det": null,
+ "sec_total": 2904.0
+}

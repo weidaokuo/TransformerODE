@@ -1,0 +1,18 @@
+{
+ "set": "cv007",
+ "gen": 40,
+ "round": 1,
+ "n_train": 40,
+ "tb": 128,
+ "n_expand": 500,
+ "a500_pos": 0,
+ "a500_neg": 500,
+ "a500_max": -1.2942414304231356,
+ "a500_mean_finite": -12.99319417939455,
+ "a_real_max": 0.0,
+ "a_real_min": -30.341760999725324,
+ "det_dir": "/Users/weidaokuo/claudecode/wdk/fig_cpei_det/experiment40/data40/runs40/cv007_det/m_iter1",
+ "det_retrained": false,
+ "sec_det": null,
+ "sec_total": 495.6
+}

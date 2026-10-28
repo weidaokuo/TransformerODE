@@ -1,0 +1,32 @@
+[lo023/det/eng] UTS top10=[30, 73, 92, 31, 165]... 门槛501-836
+init n=40
+  [train_ode] 样本数=40, 1500 epochs, latent3(state_dim=4)
+  ep[1/1500] loss=2.900037 (2s)
+  ep[500/1500] loss=0.610057 (962s)
+  ep[1000/1500] loss=0.258742 (1953s)
+  ep[1500/1500] loss=0.199724 (2891s)
+  [train_ode] 完成 (2891s) → /Users/weidaokuo/claudecode/wdk/fig_cpei_det/experiment40/data40/runs40/lo023_det/m_iter1/model.pth
+  [iter1] det/eng 选[54, 65] UTS=[753, 763] hit{} (3058s)
+  [train_ode] 样本数=42, 1500 epochs, latent3(state_dim=4)
+  ep[1/1500] loss=3.004010 (2s)
+  ep[500/1500] loss=0.713327 (928s)
+  ep[1000/1500] loss=0.267005 (1934s)
+  ep[1500/1500] loss=0.345171 (2949s)
+  [train_ode] 完成 (2949s) → /Users/weidaokuo/claudecode/wdk/fig_cpei_det/experiment40/data40/runs40/lo023_det/m_iter2/model.pth
+  [iter2] det/eng 选[10, 4] UTS=[770, 768] hit{} (3122s)
+  [train_ode] 样本数=44, 1500 epochs, latent3(state_dim=4)
+  ep[1/1500] loss=2.997651 (2s)
+  ep[500/1500] loss=0.688078 (999s)
+  ep[1000/1500] loss=0.340622 (2044s)
+  ep[1500/1500] loss=0.240556 (3122s)
+  [train_ode] 完成 (3122s) → /Users/weidaokuo/claudecode/wdk/fig_cpei_det/experiment40/data40/runs40/lo023_det/m_iter3/model.pth
+  [iter3] det/eng 选[122, 26] UTS=[780, 756] hit{} (3293s)
+  [train_ode] 样本数=46, 1500 epochs, latent3(state_dim=4)
+  ep[1/1500] loss=3.008481 (2s)
+  ep[500/1500] loss=0.474112 (1084s)
+  ep[1000/1500] loss=0.246426 (2187s)
+  ep[1500/1500] loss=0.190625 (3291s)
+  [train_ode] 完成 (3291s) → /Users/weidaokuo/claudecode/wdk/fig_cpei_det/experiment40/data40/runs40/lo023_det/m_iter4/model.pth
+  [iter4] det/eng 选[31, 30] UTS=[808, 836] hit{10: 2, 5: 2, 3: 1, 1: 1} (3464s)
+  [train_ode] 样本数=48, 1500 epochs, latent3(state_dim=4)
+  ep[1/1500] loss=3.008999 (2s)

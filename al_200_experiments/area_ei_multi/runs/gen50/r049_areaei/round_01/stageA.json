@@ -1,0 +1,18 @@
+{
+ "set": "r049",
+ "gen": 50,
+ "round": 1,
+ "n_train": 50,
+ "tb": 18,
+ "n_expand": 500,
+ "a500_pos": 1,
+ "a500_neg": 499,
+ "a500_max": 0.14449701484500752,
+ "a500_mean_finite": -13.026500324116723,
+ "a_real_max": 0.2480295814219664,
+ "a_real_min": -41.974091918785895,
+ "det_dir": "/Users/weidaokuo/claudecode/wdk/fig_cpei_det/experiment50/data50/runs50/r049_det/m_iter1",
+ "det_retrained": false,
+ "sec_det": null,
+ "sec_total": 519.2
+}

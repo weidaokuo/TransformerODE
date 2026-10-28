@@ -1,0 +1,18 @@
+{
+ "set": "mi008",
+ "gen": 40,
+ "round": 10,
+ "n_train": 58,
+ "tb": 74,
+ "n_expand": 500,
+ "a500_pos": 154,
+ "a500_neg": 346,
+ "a500_max": 14.938438669282426,
+ "a500_mean_finite": -2.438342975063766,
+ "a_real_max": 14.217820851955581,
+ "a_real_min": -9.833975831441872,
+ "det_dir": "/Users/weidaokuo/claudecode/wdk/fig_cpei_det/area_ei_multi/runs/gen40/mi008_areaei/round_10/det_model",
+ "det_retrained": true,
+ "sec_det": null,
+ "sec_total": 3192.2
+}

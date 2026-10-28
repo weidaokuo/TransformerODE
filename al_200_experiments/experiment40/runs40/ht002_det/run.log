@@ -1,0 +1,39 @@
+[ht002/det/eng] UTS top10=[30, 73, 92, 31, 165]... 门槛501-836
+init n=40
+  [train_ode] 样本数=40, 1500 epochs, latent3(state_dim=4)
+  ep[1/1500] loss=3.271992 (2s)
+  ep[500/1500] loss=0.647098 (772s)
+  ep[1000/1500] loss=0.364072 (1587s)
+  ep[1500/1500] loss=0.273868 (2422s)
+  [train_ode] 完成 (2422s) → /Users/weidaokuo/claudecode/wdk/fig_cpei_det/experiment40/data40/runs40/ht002_det/m_iter1/model.pth
+  [iter1] det/eng 选[182, 189] UTS=[733, 791] hit{} (2565s)
+  [train_ode] 样本数=42, 1500 epochs, latent3(state_dim=4)
+  ep[1/1500] loss=3.251698 (2s)
+  ep[500/1500] loss=0.673811 (893s)
+  ep[1000/1500] loss=0.312725 (1775s)
+  ep[1500/1500] loss=0.207568 (2771s)
+  [train_ode] 完成 (2771s) → /Users/weidaokuo/claudecode/wdk/fig_cpei_det/experiment40/data40/runs40/ht002_det/m_iter2/model.pth
+  [iter2] det/eng 选[10, 31] UTS=[770, 808] hit{10: 1, 5: 1} (2943s)
+  [train_ode] 样本数=44, 1500 epochs, latent3(state_dim=4)
+  ep[1/1500] loss=3.526042 (2s)
+  ep[500/1500] loss=1.047096 (1029s)
+  ep[1000/1500] loss=0.371084 (1995s)
+  ep[1500/1500] loss=0.286857 (2952s)
+  [train_ode] 完成 (2952s) → /Users/weidaokuo/claudecode/wdk/fig_cpei_det/experiment40/data40/runs40/ht002_det/m_iter3/model.pth
+  [iter3] det/eng 选[165, 157] UTS=[802, 793] hit{10: 2, 5: 1} (3109s)
+  [train_ode] 样本数=46, 1500 epochs, latent3(state_dim=4)
+  ep[1/1500] loss=3.166699 (2s)
+  ep[500/1500] loss=0.961899 (881s)
+  ep[1000/1500] loss=0.331481 (1948s)
+  ep[1500/1500] loss=0.261681 (3232s)
+  [train_ode] 完成 (3232s) → /Users/weidaokuo/claudecode/wdk/fig_cpei_det/experiment40/data40/runs40/ht002_det/m_iter4/model.pth
+  [iter4] det/eng 选[92, 91] UTS=[810, 738] hit{10: 1, 5: 1, 3: 1} (3413s)
+  [train_ode] 样本数=48, 1500 epochs, latent3(state_dim=4)
+  ep[1/1500] loss=3.303487 (2s)
+  ep[500/1500] loss=0.758937 (1347s)
+  ep[1000/1500] loss=0.281221 (2736s)
+  ep[1500/1500] loss=0.237491 (4095s)
+  [train_ode] 完成 (4095s) → /Users/weidaokuo/claudecode/wdk/fig_cpei_det/experiment40/data40/runs40/ht002_det/m_iter5/model.pth
+  [iter5] det/eng 选[30, 73] UTS=[836, 824] hit{10: 2, 5: 2, 3: 2, 1: 1} (4294s)
+  [train_ode] 样本数=50, 1500 epochs, latent3(state_dim=4)
+  ep[1/1500] loss=3.180229 (3s)

@@ -1,0 +1,16 @@
+{
+ "set": "bi002",
+ "gen": 50,
+ "rounds_done": 1,
+ "hit_first": {
+  "10": 1,
+  "5": 1,
+  "3": 1,
+  "1": 1
+ },
+ "hit_full": {
+  "1": 1
+ },
+ "smoke": false,
+ "hours": 0.144
+}
